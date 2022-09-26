@@ -35,4 +35,6 @@ int main(){
     for (int i=0;i<N;i++){
         printf("%e + %e = %e\n",a[i], b[i], out[i]);
     }
+
+    return 0;
 }
